@@ -1,1 +1,1 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/vendor/github.com/googlecloudplatform/cloud-builders/gcs-fetcher/cmd/gcs-fetcher:v0.11.0@sha256:b65a7e235bfa96614054167612b42b52a6f9925c92ef4109aacd5347a73eed4b
+FROM gcr.azk8s.cn/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard@sha256:89f8c9e4ac5c7a602e4c9227c26614b1610bd731f12ce00407944b9aabfa3e64
